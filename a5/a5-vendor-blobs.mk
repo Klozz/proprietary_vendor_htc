@@ -165,6 +165,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a5/proprietary/vendor/lib/egl/libGLESv2_adreno.so:/system/vendor/lib/egl/libGLESv2_adreno.so \
         vendor/htc/a5/proprietary/vendor/lib/egl/libq3dtools_adreno.so:/system/vendor/lib/egl/libq3dtools_adreno.so \
         vendor/htc/a5/proprietary/vendor/lib/libadreno_utils.so:/system/vendor/lib/libadreno_utils.so \
+        vendor/htc/a5/proprietary/vendor/lib/libbccQTI.so:/system/vendor/lib/libbccQTI.so \
         vendor/htc/a5/proprietary/vendor/lib/libC2D2.so:/system/vendor/lib/libC2D2.so \
         vendor/htc/a5/proprietary/vendor/lib/libc2d30-a3xx.so:/system/vendor/lib/libc2d30-a3xx.so \
         vendor/htc/a5/proprietary/vendor/lib/libc2d30-a4xx.so:/system/vendor/lib/libc2d30-a4xx.so \
@@ -267,7 +268,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a5/proprietary/vendor/lib/drm/libdrmwvmplugin.so:/system/vendor/lib/drm/libdrmwvmplugin.so \
         vendor/htc/a5/proprietary/vendor/lib/drm/libfwdlockengine.so:/system/vendor/lib/drm/libfwdlockengine.so \
         vendor/htc/a5/proprietary/vendor/lib/libQSEEComAPI.so:/system/vendor/lib/libQSEEComAPI.so \
-        vendor/htc/a5/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:/system/vendor/lib/libWVStreamControlAPI_L1.so \
         vendor/htc/a5/proprietary/vendor/lib/libWVphoneAPI.so:/system/vendor/lib/libWVphoneAPI.so \
         vendor/htc/a5/proprietary/vendor/lib/libdrmdecrypt.so:/system/vendor/lib/libdrmdecrypt.so \
         vendor/htc/a5/proprietary/vendor/lib/libwvdrm_L1.so:/system/vendor/lib/libwvdrm_L1.so \
